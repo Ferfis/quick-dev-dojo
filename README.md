@@ -32,19 +32,19 @@ A aplicação utiliza das seguintes dependências:
 
 Acessando o projeto no diretório "client" execute os comandos na ordem:
 
-### 1- `yarn install`
+### 1 - `yarn install`
 ### 2 - `npm start`
 
 Abra [http://localhost:3000](http://localhost:3000) para visualizar o projeto.\
 
 ####Obs: Na raíz do projeto existe um arquivo chamado contants.js, ele é responsável por armazenar os valores globais com as URLs da API Node e a chave de criptografia utilizada no projeto.\ Caso a aplicação não encontre a rota para o servidor, verifique este arquivo.
 
-####Obs: O relatório de postagens está disponível na seguinte url: 
+####Obs2: O relatório de postagens está disponível na seguinte url: http://localhost:3000/analytics
 
 ## Iniciando o projeto CLIENT
 
 Acessando o projeto no diretório "server" execute os comandos na ordem:
-### 1- `yarn install`
+### 1 - `yarn install`
 ### 2 - `node index.js`
 
 A API ficará disponível na seguinte URL [http://localhost:3002](http://localhost:3002).\
