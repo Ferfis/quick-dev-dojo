@@ -1,0 +1,11 @@
+.post-container .card-img-top{
+    height: 350px;
+    object-fit: cover;
+}
+.post-container .card .icon svg {
+    font-size: 1.2rem;
+    cursor: pointer;
+}
+.comments-container svg{
+    cursor: pointer;
+}
