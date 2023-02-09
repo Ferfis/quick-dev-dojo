@@ -41,7 +41,7 @@ Abra [http://localhost:3000](http://localhost:3000) para visualizar o projeto.\
 
 ####Obs2: O relatório de postagens está disponível na seguinte url: http://localhost:3000/analytics
 
-## Iniciando o projeto CLIENT
+## Iniciando o projeto SERVER
 
 Acessando o projeto no diretório "server" execute os comandos na ordem:
 ### 1 - `yarn install`
