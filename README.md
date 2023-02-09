@@ -56,4 +56,7 @@ A API ficará disponível na seguinte URL [http://localhost:3002](http://localho
 - Selecione seu banco de dados: use [database_name];
 - Importe a dump: source [dump_file.sql];
 
+Usuário Teste: fernando.leoncio@hotmail.com
+Senha: 123456
+
 ####Obs3: Para alterar as credenciais de acesso ao banco de dados, acessar o arquivo no seguinte caminho: /api/models/config.js

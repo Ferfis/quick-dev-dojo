@@ -18,7 +18,8 @@ export default function App() {
     return (
         <Provider store={store}>
             <Routes>
-                <Route index path="login" element={<Login/>}/>
+                <Route index path="/" element={<Login/>}/>
+                <Route path="login" element={<Login/>}/>
                 <Route path="cadastro" element={<Register/>}/>
                 <Route path="dashboard" element={<Dashboard/>}/>
                 <Route path="analytics" element={<Analytics/>}/>
